@@ -1,2 +1,2 @@
-# dev-wp-plugin
+# DEV-WP Plugin
 WordPress plugin for developers
